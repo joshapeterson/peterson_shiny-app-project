@@ -12,7 +12,7 @@ This is the repository for our group's final project in DSBA 5122. (Purpose of a
 
 ## Project Related Information
 
-### Packages
+### List of Packages
 
 (put list of packages here)
 

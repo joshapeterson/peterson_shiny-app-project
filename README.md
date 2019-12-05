@@ -10,19 +10,21 @@ This is the repository for our group's final project in DSBA 5122. (Purpose of a
 * Kelly O'Shields
 * Josh Peterson
 
-## Project Packages
+## Project Related Information
+
+### Packages
 
 (put list of packages here)
 
-## Link to Shiny App
+### Link to Shiny App
 
 (put link to shiny app here)
 
-## Link to Report
+### Link to Report
 
 (put link to bookdown here)
 
-## Link to Presentation
+### Link to Presentation
 
 (put link to presentation here)
 

@@ -2,7 +2,7 @@
 
 ## Nobel Prize Winners
 
-This is the repository for our final project in DSBA 5122
+This is the repository for our final project in DSBA 5122.
 
 ## Authors
 

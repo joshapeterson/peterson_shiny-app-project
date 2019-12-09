@@ -14,7 +14,17 @@ This is the repository for our group's final project in DSBA 5122. (Purpose of a
 
 ### List of Packages
 
-(put list of packages here)
+* shiny
+* shinydashboard
+* tidytext
+* wordcloud
+* ggplot2 (Developer Version)
+* RColorBrewer
+* tidyverse
+* validate
+* hrbrthemes
+* waiter
+* DT
 
 ### Link to Shiny App
 
@@ -22,11 +32,10 @@ This is the repository for our group's final project in DSBA 5122. (Purpose of a
 
 ### Link to Report
 
-(put link to bookdown here)
+https://dsba5122-final-project-group13.netlify.com/
 
 ### Link to Presentation
 
-(put link to presentation here)
-
+https://joshapeterson.github.io/dsba-5122_final-presentation/#1
 
 

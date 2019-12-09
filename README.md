@@ -28,7 +28,7 @@ This is the repository for our group's final project in DSBA 5122. (Purpose of a
 
 ### Link to Shiny App
 
-(put link to shiny app here)
+https://japeterson.shinyapps.io/dsba5122-final-project/
 
 ### Link to Report
 

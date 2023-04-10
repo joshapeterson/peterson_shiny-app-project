@@ -33,9 +33,3 @@ https://japeterson.shinyapps.io/dsba5122-final-project/
 ### Link to Report
 
 https://dsba5122-final-project-group13.netlify.com/
-
-### Link to Presentation
-
-https://joshapeterson.github.io/dsba-5122_final-presentation/#1
-
-

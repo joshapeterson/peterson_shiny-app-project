@@ -30,6 +30,6 @@ This is the repository for our group's final project in DSBA 5122. For this proj
 
 https://japeterson.shinyapps.io/dsba5122-final-project/
 
-### Link to Report
+### Link to Final Report
 
 https://dsba5122-final-project-group13.netlify.com/

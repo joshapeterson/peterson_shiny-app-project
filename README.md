@@ -2,7 +2,7 @@
 
 ## Nobel Prize Winners
 
-This is the repository for our group's final project in DSBA 5122. For this project, we built a Shiny app in R. Below is a link to the final Shiny app and the code for the app can be found in the app.R file above. 
+This is the repository for our group's final project in DSBA 5122. For this project, we built a Shiny app in R. Below is a link to the final Shiny app and the code for the app can be found in the "app.R" file above. 
 
 ## Authors
 

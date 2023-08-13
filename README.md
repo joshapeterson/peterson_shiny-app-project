@@ -12,7 +12,7 @@ This is the repository for our group's final project in DSBA 5122. For this proj
 
 ## Goal of Project
 
-To provide a general overview of previous Nobel Prize winners. This tool could be used to assist institution when they make future decisions regarding who to award the Nobel Prize.
+To provide a general overview of previous Nobel Prize winners. This tool could be used to assist institutions when they make future decisions regarding who to award the Nobel Prize.
 
 ## Project Related Information
 
